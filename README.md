@@ -1,4 +1,3 @@
-
 # Email-Sender
 基于Cloudflare Workers和Resend API（发送邮件）的无限域名邮箱
 ## 注册Resend
