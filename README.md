@@ -1,7 +1,7 @@
 # Email-Sender
 基于Cloudflare Workers和Resend API（发送邮件）的无限域名邮箱
 ## 注册Resend
-点击前往[官网](https://resend.com/，因为过于简单所以略去注册过程
+点击前往[官网](https://resend.com/)，此处过于简单，略去步骤
 ## 添加域名解析记录
 点击Domain，然后点击Add Domain，依次将解析记录添加到Cloudflare中
 
